@@ -1,0 +1,21 @@
+# Mac
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Sync configuration (user-specific)
+sync.config
+sync.config.bat
+
+# Logs
+*.log
+client_log.txt
+
+/libs/
+/scripts-raw/
