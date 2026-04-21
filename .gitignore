@@ -17,5 +17,4 @@ sync.config.bat
 *.log
 client_log.txt
 
-/libs/
 /scripts-raw/
